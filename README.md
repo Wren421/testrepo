@@ -1,2 +1,3 @@
-# testrepo
-First GH Repository for practice with Coursera
+# TestRepo
+Testing repository 
+This is the first markdown file.
